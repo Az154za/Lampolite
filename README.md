@@ -35,6 +35,9 @@ Here is the 3D overview of the PCB:
 
 
 <img width="841" height="636" alt="image" src="https://github.com/user-attachments/assets/75a85139-f61e-4568-a93e-fe1f0adfb014" />
+ 
+ 
+ 
  This is the project build :
 
  
